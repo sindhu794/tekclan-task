@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "Starter",
+        "itemlist" :[
+            {
+                "name" :"Tandoori Cheesy Potato Wrap",
+                "description":"Mashed potatoes and crunchy onions seasoned with zesty spice mix, drizzled with smokey tandoori cheese and wrapped with love.",
+                "price" : 180,
+                "currency":"INR"
+            },
+            {
+                "name" :"Masala Chicken Tikka Wrap",
+                "description":"Succulent chicken tikka drizzled with minty and tangy mayonnaise and crunchy onions, wrapped in a soft roti.",
+                "price" : 230,
+                "currency":"INR"
+            },
+            {
+                "name" :"Italian Chicken Wrap",
+                "description":"Farm-bred succulent chicken, marinated in Italian herbs and cooked to juicy perfection, with crunchy onions, mint and spiced mayo.",
+                "price" : 120,
+                "currency":"INR"
+            }
+        ]
+        
+    },
+    {
+        "name" : "Main Course",
+        "itemlist" :[
+            {
+                "name" :"Chicken Signature Rice Bowl",
+                "description":"Succulent chicken pieces cooked in a mildly spiced onion gravy served on a bed of flavorful rice.",
+                "price" : 280,
+                "currency":"INR"
+            }
+        ]
+    }
+
+]
